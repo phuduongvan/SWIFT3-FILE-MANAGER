@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DVP_IOS_FILE_MANANGER
 //
-//  Created by THANH on 5/21/17.
+//  Created by DVP on 5/21/17.
 //  Copyright © 2017 HCMUTE. All rights reserved.
 //
 
